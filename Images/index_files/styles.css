@@ -1,0 +1,64 @@
+body { 
+    background: #ffffff;
+    text-align: center; 
+}
+
+.img-pro { 
+	   	  width: 300px;
+          height: auto;
+	      margin-top: 30px;
+	      margin-left: auto;
+	      margin-right: auto;
+	      margin-bottom: 30px;
+	      border-radius: 50%;
+          
+}
+
+.img-jobb { 
+	   	  width: 200px;
+          height: auto;
+	      margin-top: 30px;
+	      margin-left: auto;
+	      margin-right: auto;
+	      margin-bottom: 30px;
+	      border-radius: 50%;
+          
+}
+
+h1 {
+	font: bold 45px lato, sans-serif;
+	color:#000000;
+	text-align: center;
+}
+
+h3 {
+	font: bold 20px lato, sans-serif;
+	color:#D81159;
+	text-align: center;
+}
+
+p {
+	font: 15px lato, sans-serif;
+}
+
+.regular-text { 
+	           font: 15px lato, 
+	           color:#FF8C2A;
+	           text-align: center;
+ }
+
+a:hover {
+	     font: 15px lato;
+	     color:#000000;
+}
+
+a { 
+	font: 15px lato;
+	color:#ffffff;
+ }
+
+.contact {
+	      font: lato;
+	      background:#808080;
+	      padding: 40px;
+}
